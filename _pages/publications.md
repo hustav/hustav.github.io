@@ -1,8 +1,12 @@
-
-layout: 
-title: 
-permalink: 
-author_profile: 
+---
+permalink: /
+title: "Publications"
+excerpt: "A list of selected publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
 
 
 My publications are also listed in my [Google Scholar](https://scholar.google.com/citations?user=takZ6KIAAAAJ&hl=en) 
