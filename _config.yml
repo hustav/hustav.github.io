@@ -22,10 +22,10 @@ repository               : "hustav/hustav.github.io"
 author:
   # Biographic information
   avatar           : "Gustavo.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : "he/his"  
+  name             : "Gustavo Batista"
+  pronouns         : # "he/his"  
   bio              : "Associate Professor"
-  location         : "Sydney"
+  location         : "Sydney, Australia"
   employer         : "University of New South Wales"
   uri              : # URL
   email            : "g.batista@unsw.edu.au" 
