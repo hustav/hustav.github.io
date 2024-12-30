@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Gustavo Batista and I am the head of the Machine Learning group at the School of Computer Science and Engineering at the University of New South Wales.
+My name is Gustavo Batista and I am the head of the [Machine Learning group](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering/our-research/research-groups/machine-learning) at the [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) at the University of New South Wales.
 
 I have researched machine learning for nearly 30 years, which has given me a comprehensive understanding of the area. I have diverse interests. My previous research concerns data pre-processing and evaluation methods, and I investigated and proposed techniques for missing data imputation, class imbalance treatment, and model assessment. I have recently developed methods to learn from time-oriented data, including time series and data streams.
 
@@ -16,4 +16,4 @@ My research in data streams led me to develop methods that identify changes in d
 
 While I am passionate about theory, I find it equally exciting to translate these concepts into applications. For example, I developed an optical sensor to identify insect species using wing movement. This technology can be applied to monitor disease-vector mosquitoes with funding from USAID (Zika) and IVCC-UK (Malaria). I have also developed object-detection models that are efficient to execute on nanosatellites’ onboard hardware.
 
-I joined UNSW as an associate professor in 2019 after working for more than ten years at the University of Sao Paulo (USP). 
+I joined UNSW as an associate professor in 2019 after working for more than ten years at the [University of Sao Paulo (USP)](https://icmc.usp.br/). 
