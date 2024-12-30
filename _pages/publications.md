@@ -1,7 +1,6 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Publications"
-excerpt: "A list of selected publications"
 author_profile: true
 redirect_from: 
   - /publications/
