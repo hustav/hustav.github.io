@@ -11,26 +11,17 @@ My publications are also listed in my [Google Scholar](https://scholar.google.co
 
 
 
-Pre-prints
-======
-
-
-* Reis, D., de Souto, M., de Sousa, E., **Batista, G.**, 2020. [Quantifying with only positive training data](https://arxiv.org/pdf/2004.10356). <i>arXiv preprint arXiv:2004.10356.</i> 
-
-
-* Pashamokhtari, A., Okui, N., Nakahara, M., Kubota, A., **Batista, G.** and Gharakheili, H.H., 2023. [Quantifying and Managing Impacts of Concept Drifts on IoT Traffic Inference in Residential ISP Networks](https://arxiv.org/pdf/2301.06695). <i>arXiv preprint arXiv:2301.06695.</i> 
-
-
-* Hamza, A., Gharakheili, H.H., Benson, T.A., **Batista, G.** and Sivaraman, V., 2023. [Detecting Anomalous Microflows in IoT Volumetric Attacks via Dynamic Monitoring of MUD Activity](https://arxiv.org/pdf/2304.04987). <i>arXiv preprint arXiv:2304.04987.</i> 
-
-
-* Wang, H., Zhi, W., **Batista, G.** and Chandra, R., 2023. [Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning](https://arxiv.org/pdf/2309.09021https://arxiv.org/pdf/2304.04987). <i>arXiv preprint arXiv:2309.09021.</i> 
-
-
-
 
 Refereed Journal Articles
 ======
+
+* Donyavi, Z., Serapiao, A.B. and **Batista, G.**, 2024. [MC-SQ and MC-MQ: Ensembles for Multi-class Quantification](https://ieeexplore.ieee.org/abstract/document/10457862/). <i>IEEE Transactions on Knowledge and Data Engineering.</i>
+
+
+* Nadai, B., Moura, L., Castro, G., Silva, K., Maletzke, A., Corbi, J., **Batista, G.** and Machado, R., 2024. [Can microplastic contamination afect the wing morphology and wingbeat frequency of Aedes aegypti (Diptera: Culicidae) mosquitoes?](https://repositorio.usp.br/item/003217428). <i>Environmental Science and Pollution Research, pp.1-13.</i>
+
+
+* Pashamokhtari, A., **Batista, G.**, & Gharakheili, H. H., 2023. [Efficient IoT traffic inference: From multi-view classification to progressive monitoring](https://dl.acm.org/doi/abs/10.1145/3625306). <i>ACM Transactions on Internet of Things, 5(1).</i>
 
 
 * Pashamokhtari, A., Okui, N., Nakahara, M., Kubota, A., **Batista, G.** and Gharakheili, H.H., 2023. [Dynamic Inference from IoT Traffic Flows under Concept Drifts in Residential ISP Networks](https://ieeexplore.ieee.org/abstract/document/10093927/). <i>IEEE Internet of Things Journal.</i> 
@@ -126,6 +117,26 @@ Refereed Journal Articles
 
 Refereed Conference Papers
 ======
+
+* Jiang, V.W., **Batista, G.** and Bain, M., 2024. [Charting a Fair Path: FaGGM Fairness-Aware Generative Graphical Models](https://link.springer.com/chapter/10.1007/978-981-96-0348-0_13). <i>In Australasian Joint Conference on Artificial Intelligence (pp. 171-185). Springer.</i>
+
+
+* Maroof, U., **Batista, G.**, Shaghaghi, A. and Jha, S., 2024. [Towards Detecting IoT Event Spoofing Attacks Using Time-Series Classification](https://ieeexplore.ieee.org/abstract/document/10639633/). <i>In 2024 IEEE 49th Conference on Local Computer Networks (LCN) (pp. 1-7). IEEE.</i>
+
+
+* Li, F., Gharakheili, H.H. and **Batista, G.**, 2024. [Quantification Over Time](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_17). <i>In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 282-299). Springer.</i>
+
+
+* Gil, M.Z., Hu, Z., Lyu, M., **Batista, G.** and Habibi Gharakheili, H., 2024. [Systematic Mapping and Temporal Reasoning of IoT Cyber Risks using Structured Data](https://dl.acm.org/doi/abs/10.1145/3674213.3674216). <i>In Proceedings of the Asian Internet Engineering Conference 2024 (pp. 18-25).</i>
+
+
+* Azizi, S., Okui, N., Nakahara, M., Kubota, A., **Batista, G.** and Gharakheili, H.H., 2024. [Understanding and Managing Changes in IoT Device Behaviors for Reliable Network Traffic Inference](https://dl.acm.org/doi/abs/10.1145/3672202.3673723). <i>In Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos (pp. 25-27).</i>
+
+
+* Wang, H., Zhi, W., **Batista, G.** and Chandra, R., 2024. [Pedestrian trajectory prediction using dynamics-based deep learning](https://ieeexplore.ieee.org/abstract/document/10609993/). <i>In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 15068-15075). IEEE.</i>
+
+
+* Perera, Y., Batista, G., Hu, W., Kanhere, S. and Jha, S., 2024, [SAfER: Simplified Auto-encoder for (Anomalous) Event Recognition](https://ieeexplore.ieee.org/abstract/document/10621480/). <i>In 2024 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) (pp. 229-233). IEEE.</i>
 
 
 * Serapião, A.B., Donyavi, Z. and **Batista, G.**, 2023. [Ensembles of Classifiers and Quantifiers with Data Fusion for Quantification Learning](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_1). <i>In International Conference on Discovery Science (pp. 3-17). Cham: Springer Nature Switzerland.</i> 
