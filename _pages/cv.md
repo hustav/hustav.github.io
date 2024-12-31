@@ -16,22 +16,20 @@ Education
 * M.S. in Computer Science, University of Sao Paulo, 1997.
 * B.S. in Computer Science, Sao Paulo State University, 1994.
 
+
 Work experience
 ======
 * 2019 - today: Associate professor
   * School of Computer Science and Engineering, University of New South Wales.
-
 * 2016 - 2019: Associate professor
   * Institute of Mathematics and Computer Science, University of Sao Paulo.
-
 * 2010 – 2011: Visting professor
   * University of California, Riverside.
-
 * 2007 – 2016: Assistant professor
   * Institute of Mathematics and Computer Science, University of Sao Paulo.
-
 * 2005 – 2006: Assistant professor
   * Pontifical Catholic University of Campinas.
+
 
 Awards
 ======
@@ -47,6 +45,7 @@ Awards
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM-KDD)
 * 2000  Best Research Paper Award
   * Mexican International Conference on Artificial Intelligence (MICAI)
+
   
 Service and leadership
 ======
