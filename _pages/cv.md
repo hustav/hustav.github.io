@@ -5,60 +5,54 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /resume.html  
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Sao Paulo, 2003.
+* M.S. in Computer Science, University of Sao Paulo, 1997.
+* B.S. in Computer Science, Sao Paulo State University, 1994.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 - today: Associate professor
+  * School of Computer Science and Engineering, University of New South Wales.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2019: Associate professor
+  * Institute of Mathematics and Computer Science, University of Sao Paulo.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2010 – 2011: Visting professor
+  * University of California, Riverside.
 
-Publications
+* 2007 – 2016: Assistant professor
+  * Institute of Mathematics and Computer Science, University of Sao Paulo.
+
+* 2005 – 2006: Assistant professor
+  * Pontifical Catholic University of Campinas.
+
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2022: Test of Time Award
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM-KDD)
+* 2020: Best Research Paper Award
+  * IEEE International Conference on Data Science and Advanced Analytics
+* 2017 – 2019: Research Fellow, level 2
+  * National Council for Scientific and Technological Development, CNPq
+* 2014 – 2016: Research Fellow, level 2
+  * National Council for Scientific and Technological Development, CNPq
+* 2012  Best Research Paper Award
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM-KDD)
+* 2000  Best Research Paper Award
+  * Mexican International Conference on Artificial Intelligence (MICAI)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022 - 2025: Head of the Machine Learning Group, CSE-UNSW.
+* 2020 – 2026: Action Editor Machine Learning Journal, Springer.
+* 2017 - 2026: Editorial Board Machine Learning Journal, Springer.
+* 2022 - 2025: Action Editor International Journal of Data Science and Analytics.
+
+
