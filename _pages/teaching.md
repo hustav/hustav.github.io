@@ -10,15 +10,12 @@ As an academic in Machine Learning, I am committed to cultivating an engaging an
 University of New South Wales
 -----
 
-* Advanced Topics in Statistical Machine Learning (COMP9414)
-This graduate-level course covers several topics in statistical machine learning such as Bayesian and Markov networks, Hidden Markov Models, Conditional Random Fields, Markov Chain Monte Carlo, Gibbs sampling, Kalman Filter among other topics. Advanced under-graduate studenta are welcome.
-Offerings:
-- Term 2 2019
-- Term 2 2020
-
-
-
-* Artifical Intelligence (COMP9414)
+	* Advanced Topics in Statistical Machine Learning (COMP9414)
+	This graduate-level course covers several topics in statistical machine learning such as Bayesian and Markov networks, Hidden Markov Models, Conditional Random Fields, Markov Chain Monte Carlo, Gibbs sampling, Kalman Filter among other topics. Advanced under-graduate studenta are welcome.
+	Offerings:
+		* Term 2 2019
+		* Term 2 2020
+	* Artifical Intelligence (COMP9414)
 
 
 Another header
