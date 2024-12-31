@@ -344,7 +344,6 @@ Refereed Conference Papers
 
 * Giusti, R., **Batista, G.**, 2010. [Discovering Knowledge Rules with Multi-Objective Evolutionary Computing](https://www.researchgate.net/profile/Gustavo-Batista-2/publication/221226345_Discovering_Knowledge_Rules_with_Multi-Objective_Evolutionary_Computing/links/5bb12a3c299bf13e605961cf/Discovering-Knowledge-Rules-with-Multi-Objective-Evolutionary-Computing.pdf). <i>Machine Learning and Applications (ICMLA), 2010 Ninth International Conference on, pp.119-124, IEEE.</i> 
 
-
 * **Batista, G.**, Prati, R., Monard, M., 2010. [A Study with Class Imbalance and Random Sampling for a Decision Tree Learning System](https://link.springer.com/content/pdf/10.1007/978-0-387-09695-7_13.pdf). <i>IFIP International Federation for Information Processing, 276(1).</i> 
 
 

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gustavo Batista / Academic Webpage"
+title                    : "Gustavo Batista"
 title_separator          : "-"
 name                     : &name "Gustavo Batista"
 description              : &description "personal description"
