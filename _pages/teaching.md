@@ -19,13 +19,13 @@ University of New South Wales
 University of São Paulo
 -----
 
-* **Advanced Algorithms (SCC210).** Offerings: Semester 1 2007, Semester 2 2007, Semester 2 2008, Semester 1 2009, Semester 2 2009, Semester 2 2012, Semester 2 2018.
-* **Algorithms and Data Structures I (SCC202).** Offerings: Semester 2 2007, Semester 2 2008, Semester 2 2009, Semester 2 2012, Semester 2 2016.
-* **Algorithms and Data Structures II (SCC202).** Offerings: Semester 1 2007, Semester 1 2008, Semester 1 2009, Semester 1 2016, Semester 1 2017.
-* **Artificial Intelligence (SCC530).** Offerings: Semester 1 2007, Semester 1 2012.
-* **Laboratory of Advanced Algorithms (SCC211).** Offerings: Semester 1 2008, Semester 1 2009, Semester 1 2013, Semester 1 2015.
+* **Advanced Algorithms (SCC210).** Offerings: Semester 2 2018, Semester 2 2012, Semester 2 2009, Semester 1 2009, Semester 2 2008, Semester 2 2007, Semester 1 2007.
+* **Algorithms and Data Structures I (SCC202).** Offerings: Semester 2 2016, Semester 2 2012, Semester 2 2009, Semester 2 2008, Semester 2 2007.
+* **Algorithms and Data Structures II (SCC202).** Offerings: Semester 1 2017, Semester 1 2016, Semester 1 2009, Semester 1 2008, Semester 1 2007.
+* **Artificial Intelligence (SCC530).** Offerings: Semester 1 2012, Semester 1 2007.
+* **Laboratory of Advanced Algorithms (SCC211).** Offerings: Semester 1 2015, Semester 1 2013, Semester 1 2009, Semester 1 2008.
 * **Introduction to Computer Science II (SCC201).** Offerings: Semester 2 2009.
-* **Advanced Algorithms and Applications (SCC218).** Offerings: Semester 2 2013, Semester 2 2014, Semester 2 2015, Semester 2 2016.
-* **Artificial Intelligence (SCC5774) [graduate].** Offerings: Semester 1 2009, Semester 1 2012, Semester 1 2016, Semester 1 2017, Semester 1 2018.
-* **Algorithm Design (SCC5900) [graduate].** Offerings: Semester 1 2013, Semester 1 2014, Semester 1 2015, Semester 1 2016, Semester 1 2018.
+* **Advanced Algorithms and Applications (SCC218).** Offerings: Semester 2 2016, Semester 2 2015, Semester 2 2014, Semester 2 2013.
+* **Artificial Intelligence (SCC5774) [graduate].** Offerings: Semester 1 2018, Semester 1 2017, Semester 1 2016, Semester 1 2012, Semester 1 2009.
+* **Algorithm Design (SCC5900) [graduate].** Offerings: Semester 1 2018, Semester 1 2016, Semester 1 2015, Semester 1 2014, Semester 1 2013.
 
