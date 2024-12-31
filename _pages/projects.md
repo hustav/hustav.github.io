@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects and Grants"
-permalink: /projectsandgrants/
+permalink: /projects/
 author_profile: true
 author_profile: true
 ---
