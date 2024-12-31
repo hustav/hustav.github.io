@@ -3,10 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 
-My publications are also listed in my [Google Scholar](https://scholar.google.com/citations?user=takZ6KIAAAAJ&hl=en) page.
+My publications are also listed in my [Google Scholar](https://scholar.google.com/citations?user=takZ6KIAAAAJ) page.
 
 
 
@@ -60,7 +63,7 @@ Refereed Journal Articles
 * Silva, D., Yeh, C., Zhu, Y., **Batista, G.**, Keogh, E., 2019. [Fast similarity matrix profile for music analysis and exploration](https://ieeexplore.ieee.org/ielaam/6046/8584144/8392419-aam.pdf). <i>IEEE Transactions on Multimedia, 21(1), pp.29-38, IEEE.</i> 
 
 
-* Parmezan, A., Souza, V., **Batista, G.**, 2019. [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://www.researchgate.net/profile/Antonio-Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5fbc07eda6fdcc6cc65e0d18/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf). <i>Information sciences, 484, pp.302-337, Elsevier.</i> https://www.researchgate.net/profile/Antonio-Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5fbc07eda6fdcc6cc65e0d18/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf)
+* Parmezan, A., Souza, V., **Batista, G.**, 2019. [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://www.researchgate.net/profile/Antonio-Parmezan/publication/330742498_Evaluation_of_statistical_and_machine_learning_models_for_time_series_prediction_Identifying_the_state-of-the-art_and_the_best_conditions_for_the_use_of_each_model/links/5fbc07eda6fdcc6cc65e0d18/Evaluation-of-statistical-and-machine-learning-models-for-time-series-prediction-Identifying-the-state-of-the-art-and-the-best-conditions-for-the-use-of-each-model.pdf). <i>Information sciences, 484, pp.302-337, Elsevier.</i>
 
 
 * Silva, D., Giusti, R., Keogh, E., **Batista, G.**, 2018. [Speeding up similarity search under dynamic time warping by pruning unpromising alignments](https://www.researchgate.net/profile/Gustavo-Batista-2/publication/323703457_Speeding_up_similarity_search_under_dynamic_time_warping_by_pruning_unpromising_alignments/links/5bb1295792851ca9ed331947/Speeding-up-similarity-search-under-dynamic-time-warping-by-pruning-unpromising-alignments.pdf). <i>Data Mining and Knowledge Discovery, 32(4), pp.988-1016, Springer US.</i> 
@@ -160,8 +163,7 @@ Refereed Conference Papers
 * Sharma, A., Li, J., Mishra, D., **Batista, G.**, Seneviratne, A., 2021. [Passive WiFi CSI sensing based machine learning framework for COVID-Safe occupancy monitoring](https://ieeexplore.ieee.org/abstract/document/9473673/). <i>2021 IEEE International Conference on Communications Workshops (ICC Workshops), pp.1-Jun, IEEE.</i> 
 
 
-* Hassan, W., Maletzke, A., **Batista, G.**, 2021. [Pitfalls in Quantification Assessment](https://www.researchgate.net/profile/Andre-Maletzke/publication/357683526_Pitfalls_in_Quantification_Assessment/links/61da38f2b8305f7c4b30ef97/Pitfalls-in-Quantification-Assessment.pdf). <i>First International Workshop on Learning to Quantify: Methods and Applications (LQ 2021)., pp.1-Oct.</i> (https://www.researchgate.net/profile/Andre-Maletzke/publication/357683526_Pitfalls_in_Quantification_Assessment/links/61da38f2b8305f7c4b30ef97/Pitfalls-in-Quantification-Assessment.pdf
-
+* Hassan, W., Maletzke, A., **Batista, G.**, 2021. [Pitfalls in Quantification Assessment](https://www.researchgate.net/profile/Andre-Maletzke/publication/357683526_Pitfalls_in_Quantification_Assessment/links/61da38f2b8305f7c4b30ef97/Pitfalls-in-Quantification-Assessment.pdf). <i>First International Workshop on Learning to Quantify: Methods and Applications (LQ 2021)., pp.1-Oct.</i>
 
 * Maletzke, A., Dos Reis, D., Hassan, W., **Batista, G.**, 2021. [Accurately Quantifying under Score Variability](https://ieeexplore.ieee.org/abstract/document/9679104/). <i>2021 IEEE International Conference on Data Mining (ICDM), pp.1228-1233, IEEE.</i> 
 
@@ -382,7 +384,7 @@ Refereed Conference Papers
 * Matsubara, E., Monard, M., **Batista, G.**, 2005. [Utilizando algoritmos de aprendizado semi-supervisionados multi-visão como rotuladores de texto](http://www.nilc.icmc.usp.br/til/til2005/arq0107.pdf). <i>Anais do Workshop em Tecnologia da Informação de da Linguagem Humana (TIL2005), pp.2108-2117.</i> 
 
 
-* Matsubara, E., Monard, M., **Batista, G.**, 2005. [Multi-view semi-supervised learning: An approach to obtain different views from text datasets](https://books.google.com/books?hl=en&lr=&id=zS6rbp5B15AC&oi=fnd&pg=PA97&dq=Multi-view+semi-supervised+learning:+An+approach+to+obtain+different+views+from+text+datasets&ots=j6UpHDp8fo&sig=vNStSsnStHuGIxTUZpP9N8wZtvg). <i>Proceeding of the 2005 conference on Advances in Logic Based Intelligent Systems: Selected Papers of LAPTEC 2005, pp.97-104, IOS Press.</i> https://books.google.com/books?hl=en&lr=&id=zS6rbp5B15AC&oi=fnd&pg=PA97&dq=Multi-view+semi-supervised+learning:+An+approach+to+obtain+different+views+from+text+datasets&ots=j6UpHDp8fo&sig=vNStSsnStHuGIxTUZpP9N8wZtvg)
+* Matsubara, E., Monard, M., **Batista, G.**, 2005. [Multi-view semi-supervised learning: An approach to obtain different views from text datasets](https://books.google.com/books?hl=en&lr=&id=zS6rbp5B15AC&oi=fnd&pg=PA97&dq=Multi-view+semi-supervised+learning:+An+approach+to+obtain+different+views+from+text+datasets&ots=j6UpHDp8fo&sig=vNStSsnStHuGIxTUZpP9N8wZtvg). <i>Proceeding of the 2005 conference on Advances in Logic Based Intelligent Systems: Selected Papers of LAPTEC 2005, pp.97-104, IOS Press.</i>
 
 
 * **Batista, G.**, Prati, R., Monard, M., 2005. [Balancing strategies and class overlapping](https://www.academia.edu/download/54560666/ida2005.pdf). <i>Advances in Intelligent Data Analysis VI, pp.741-741, Springer Berlin/Heidelberg.</i> 
@@ -436,7 +438,7 @@ Refereed Conference Papers
 * Baranauskas, J., Monarch, M., **Batista, G.**, 2000. [A computational environment for extracting rules from databases](https://www.witpress.com/Secure/elibrary/papers/DATA00/DATA00031FU.pdf). <i>WIT Transactions on Information and Communication Technologies, 25, WIT Press.</i> 
 
 
-* **Batista, G.**, CARVALHO, A., Monard, M., 1999. [Aplicando Seleção Unilateral em Conjuntos de Exemplos Desbalanceados: Resultados Iniciais](https://www.researchgate.net/profile/Maria-Carolina-Monard/publication/228967564_Aplicando_Selecao_Unilateral_em_Conjuntos_de_Exemplos_Desbalanceados_Resultados_Iniciais/links/0912f50bb975c9c0c7000000/Aplicando-Selecao-Unilateral-em-Conjuntos-de-Exemplos-Desbalanceados-Resultados-Iniciais.pdf). <i>XIX CONGRESSO NACIONAL DA SOCIEDADE BRASILEIRA DE COMPUTAÇÃO" EDUCAÇÃO E APRENDIZAGEM NA SOCIEDADE DA INFORMAÇÃO, 20, pp.327-340.</i> 
+* **Batista, G.**, CARVALHO, A., Monard, M., 1999. [Aplicando Seleção Unilateral em Conjuntos de Exemplos Desbalanceados: Resultados Iniciais](https://www.researchgate.net/profile/Maria-Carolina-Monard/publication/228967564_Aplicando_Selecao_Unilateral_em_Conjuntos_de_Exemplos_Desbalanceados_Resultados_Iniciais/links/0912f50bb975c9c0c7000000/Aplicando-Selecao-Unilateral-em-Conjuntos-de-Exemplos-Desbalanceados-Resultados-Iniciais.pdf). <i>XIX Congresso Nacional aa Sociedade Brasileira De Computação, 20, pp.327-340.</i> 
 
 
 * Monard, M., Milaré, C., **Batista, G.**, 1998. [A tool to explore explanation facilities in neural network](https://repositorio.usp.br/item/001028059). <i>Proceedings of ACNN’98, pp.128-132.</i> 
