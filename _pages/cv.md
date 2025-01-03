@@ -28,8 +28,7 @@ Awards
 -----
 * 2022: **Test of Time Award**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM-KDD).
 * 2020: **Best Research Paper Award**, IEEE International Conference on Data Science and Advanced Analytics.
-* 2017 – 2019: **Research Fellow**, National Council for Scientific and Technological Development, CNPq.
-* 2014 – 2016: **Research Fellow**, National Council for Scientific and Technological Development, CNPq.
+* 2014 – 2019: **Research Fellow**, National Council for Scientific and Technological Development, CNPq.
 * 2012: **Best Research Paper Award**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM-KDD).
 * 2000: **Best Research Paper Award**, Mexican International Conference on Artificial Intelligence (MICAI).
 
