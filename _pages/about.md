@@ -20,8 +20,8 @@ I joined UNSW as an associate professor in 2019 after working for more than ten 
 
 News (2025 onwards)
 =====
-* [Feb 2025] I am glad to accept the invitation to step up as Section Editor to the [Machine Learning Journal](https://link.springer.com/journal/10994) from my current position of Action Editor.
+* [Feb 2025] I am glad to accept the invitation to step up as Section Editor of the [Machine Learning Journal](https://link.springer.com/journal/10994) from my current position of Action Editor.
 * [Feb 2025] Congratulations to Zeinab Ebrahimi for her paper accepted in [Neurocomputing Journal](https://www.sciencedirect.com/journal/neurocomputing). 
-* [Feb 2025] Congratulations to Yunrui Zhang for his paper accepted in [PAKDD 2005](https://pakdd2025.org/).
+* [Feb 2025] Congratulations to Yunrui Zhang for his paper accepted in [PAKDD 2025](https://pakdd2025.org/).
 * [Jan 2025] Congratulations to Honghui Wang for his paper accepted in [Expert Systems With Applications Journal](https://www.sciencedirect.com/journal/expert-systems-with-applications).
-* [Jan 2025] Congratulations to Yunrui Zhang for his paper accepted in [SIAM-SDM 2005](https://www.siam.org/conferences-events/siam-conferences/sdm25/).
+* [Jan 2025] Congratulations to Yunrui Zhang for his paper accepted in [SIAM-SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25/).
