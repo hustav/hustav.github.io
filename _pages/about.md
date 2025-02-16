@@ -17,3 +17,11 @@ My research in data streams led me to develop methods that identify changes in d
 While I am passionate about theory, I find it equally exciting to translate these concepts into applications. For example, I developed an optical sensor to identify insect species using wing movement. This technology can be applied to monitor disease-vector mosquitoes with funding from USAID (Zika) and IVCC-UK (Malaria). I have also developed object-detection models that are efficient to execute on nanosatellites’ onboard hardware.
 
 I joined UNSW as an associate professor in 2019 after working for more than ten years at the [University of Sao Paulo (USP)](https://icmc.usp.br/). 
+
+News (2025 onwards)
+=====
+* [Feb 2025] I am glad to accept the invitation to step up as Section Editor to the [Machine Learning Journal](https://link.springer.com/journal/10994) from my current position of Action Editor.
+* [Feb 2025] Congratulations to Zeinab Ebrahimi for her paper accepted in [Neurocomputing Journal](https://www.sciencedirect.com/journal/neurocomputing). 
+* [Feb 2025] Congratulations to Yunrui Zhang for his paper accepted in [PAKDD 2005](https://pakdd2025.org/).
+* [Jan 2025] Congratulations to Honghui Wang for his paper accepted in [Expert Systems With Applications Journal](https://www.sciencedirect.com/journal/expert-systems-with-applications).
+* [Jan 2025] Congratulations to Yunrui Zhang for his paper accepted in [SIAM-SDM 2005](https://www.siam.org/conferences-events/siam-conferences/sdm25/).
