@@ -17,8 +17,11 @@ main:
   - title: "Research Team"
     url: /team/
         
+  - title: "My Hallucination Papers"
+    url: /hallucination/
+
   - title: "CV"
     url: /cv/
 
   - title: "Contact"
-    url: /contact/    
+    url: /contact/
