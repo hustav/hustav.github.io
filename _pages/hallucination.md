@@ -5,10 +5,6 @@ permalink: /hallucination/
 author_profile: true
 ---
 
-
-My Hallucination Papers
-======
-
 I did not write these scientific papers—though, according to ChatGPT, I could have.
 
 I admire Google Scholar’s efficiency in crawling the scientific literature, automatically identifying our papers and their citations. It feels like magic and sets it apart from others that often require manual reference entry, have limited coverage of top conferences in my area, or miss recent preprints.
